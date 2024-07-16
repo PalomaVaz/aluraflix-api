@@ -6,7 +6,7 @@
         "categoria": "Mobile",
         "descricao": "Eu to aqui pra nesse vídeo dizer que a gente vai aprender a começar uma app inspirada no desenho Pokémon com Nextjs e React, ver algumas dicas sobre performance e de quebra conhecer uma plataforma sensacional pra fazer deploy que é a Vercel. Tudo em 22 minutos nesse vídeo feito com todo o carinho do mundo construindo uma 'Pokedex'!",
         "url": "https://www.youtube.com/embed/y8FeZMv37WU",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Mobile%201.png"
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "categoria": "Back-End",
         "descricao": "1,5 mil visualizações",
         "url": "https://www.youtube.com/embed/fmu1LQvZhms",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Back%201.png"
       },
       {
         "id": 3,
@@ -22,7 +22,7 @@
         "categoria": "Front-End",
         "descricao": "30 mil visualizações",
         "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Front%201.png"
       },
       {
         "id": 4,
@@ -30,7 +30,7 @@
         "categoria": "Mobile",
         "descricao": "2,5 mil visualizações",
         "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Mobile%202.png"
       },
       {
         "id": 5,
@@ -38,7 +38,7 @@
         "categoria": "Back-End",
         "descricao": "1,2 mil visualizações",
         "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Back%202.png"
       },
       {
         "id": 6,
@@ -46,7 +46,7 @@
         "categoria": "Front-End",
         "descricao": "1,6 mil visualizações",
         "url": "https://www.youtube.com/embed/vf9P_PycgRw",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Front%202.png"
       },
       {
         "id": 7,
@@ -54,7 +54,7 @@
         "categoria": "Mobile",
         "descricao": "3,2 mil visualizações",
         "url": "https://www.youtube.com/embed/Nts3P35mHzE",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Mobile%203.png"
       },
       {
         "id": 8,
@@ -62,14 +62,14 @@
         "categoria": "Back-End",
         "descricao": "1,2 mil visualizações",
         "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Back%203.png"
       },
       {
         "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
         "categoria": "Front-End",
         "descricao": "1 mil visualizações",
         "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-        "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+        "imagem": "https://github.com/PalomaVaz/alura-flix/blob/main/public/Front%203.png",
         "id": 9
       }
     ]
